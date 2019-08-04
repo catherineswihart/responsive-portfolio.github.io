@@ -1,0 +1,701 @@
+body {
+    position: relative;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/textured_paper.png");
+    min-height: 125vh;
+}
+
+h1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #63a8a4;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 30px 30px 30px;
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+header {
+    position: relative;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+    height: 100px;
+}
+
+.headbox{
+    position: relative;
+    width: 960px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.help {
+    display: inline;
+}
+
+nav {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h1 {
+    padding: 20px;
+    background-color: #63a8a4;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", "Georgia", Times, serif;
+    font-size: 25px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 900px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutme {
+    color: #777777;
+    overflow: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    border-top: 10px solid #63a8a4;
+    background-color: #666666;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+#profile {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    padding-top: 15px;
+    font-size: 24px;
+    color: #63a8a4;
+}
+
+.headerrr {
+    border-bottom: 2px solid #cccccc;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.me {
+    border-right: 1px solid #cccccc;
+}
+
+.help {
+    padding: 10px;
+    font-size: 15pt;
+}
+
+.form {
+    font-size: 15pt;
+    color: #777777;
+    line-height: 1.5;
+ }
+ 
+ .name {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 30%;
+ }
+ 
+ .message {
+    margin-top: 3px;
+    width: 100%;
+    height: 175px;
+ }
+ 
+ .submit {
+    width: 100px;
+    margin-top: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-bottom: 30px;
+ }
+
+ /* Portfolio Page */
+
+ .portfolio {
+     display: inline-block;
+     margin-top: 20px;
+     margin-bottom: 200px;
+ }
+
+.images {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.imgtext {
+    position: absolute;
+    display: inline-block;
+    bottom: 30px;
+    width: 240px;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+@media screen and (max-width: 980px)
+{ body {
+    position: relative;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/textured_paper.png");
+    min-height: 125vh;
+}
+
+h1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #63a8a4;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 30px 30px 30px;
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+header {
+    position: relative;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+    height: 100px;
+}
+
+.headbox{
+    position: relative;
+    width: 960px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.help {
+    display: inline;
+}
+
+nav {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h1 {
+    padding: 20px;
+    background-color: #63a8a4;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", "Georgia", Times, serif;
+    font-size: 25px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 900px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutme {
+    color: #777777;
+    overflow: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    border-top: 10px solid #63a8a4;
+    background-color: #666666;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+#profile {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    padding-top: 15px;
+    font-size: 24px;
+    color: #63a8a4;
+}
+
+.headerrr {
+    border-bottom: 2px solid #cccccc;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.me {
+    border-right: 1px solid #cccccc;
+}
+
+.help {
+    padding: 10px;
+    font-size: 15pt;
+}
+
+.form {
+    font-size: 15pt;
+    color: #777777;
+    line-height: 1.5;
+ }
+ 
+ .name {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 30%;
+ }
+ 
+ .message {
+    margin-top: 3px;
+    width: 100%;
+    height: 175px;
+ }
+ 
+ .submit {
+    width: 100px;
+    margin-top: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-bottom: 30px;
+ }
+
+ /* Portfolio Page */
+
+ .portfolio {
+     display: inline-block;
+     margin-top: 20px;
+     margin-bottom: 200px;
+ }
+
+.images {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.imgtext {
+    position: absolute;
+    display: inline-block;
+    bottom: 30px;
+    width: 240px;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+}
+
+
+
+@media screen and (max-width: 768px) {
+body {
+    position: relative;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/textured_paper.png");
+    min-height: 125vh;
+}
+
+h1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #63a8a4;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 30px 30px 30px;
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+header {
+    position: relative;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+    height: 100px;
+}
+
+.headbox{
+    position: relative;
+    width: 960px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.help {
+    display: inline;
+}
+
+nav {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h1 {
+    padding: 20px;
+    background-color: #63a8a4;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", "Georgia", Times, serif;
+    font-size: 25px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 900px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutme {
+    color: #777777;
+    overflow: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    border-top: 10px solid #63a8a4;
+    background-color: #666666;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+#profile {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    padding-top: 15px;
+    font-size: 24px;
+    color: #63a8a4;
+}
+
+.headerrr {
+    border-bottom: 2px solid #cccccc;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.me {
+    border-right: 1px solid #cccccc;
+}
+
+.help {
+    padding: 10px;
+    font-size: 15pt;
+}
+
+.form {
+    font-size: 15pt;
+    color: #777777;
+    line-height: 1.5;
+ }
+ 
+ .name {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 30%;
+ }
+ 
+ .message {
+    margin-top: 3px;
+    width: 100%;
+    height: 175px;
+ }
+ 
+ .submit {
+    width: 100px;
+    margin-top: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-bottom: 30px;
+ }
+
+ /* Portfolio Page */
+
+ .portfolio {
+     display: inline-block;
+     margin-top: 20px;
+     margin-bottom: 200px;
+ }
+
+.images {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.imgtext {
+    position: absolute;
+    display: inline-block;
+    bottom: 30px;
+    width: 240px;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+}
+
+@media screen and (max-width: 640px) {
+    body {
+    position: relative;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/textured_paper.png");
+    min-height: 125vh;
+}
+
+h1 {
+    position: absolute;
+    top: 0px;
+    background-color: #63a8a4;
+    color: #ffffff;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    /* padding: 20px 30px 30px 30px; */
+    width: 100vh;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+} 
+
+a:hover {
+    color: lightgray;
+}
+
+header {
+    position: relative;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    width: 100vh;
+    height: 100px;
+}
+
+.headbox{
+    position: relative;
+    width: 960px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.help {
+    display: inline;
+}
+
+nav {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h1 {
+    padding: 20px;
+    background-color: #63a8a4;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", "Georgia", Times, serif;
+    font-size: 25px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 900px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutme {
+    color: #777777;
+    overflow: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    border-top: 10px solid #63a8a4;
+    background-color: #666666;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+#profile {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    padding-top: 15px;
+    font-size: 24px;
+    color: #63a8a4;
+}
+
+.headerrr {
+    border-bottom: 2px solid #cccccc;
+    height: 50px;
+    margin-bottom: 30px;
+    width: 640px;
+}
+
+.me {
+    border-right: 1px solid #cccccc;
+}
+
+.help {
+    padding: 10px;
+    font-size: 15pt;
+}
+
+.form {
+    font-size: 15pt;
+    color: #777777;
+    line-height: 1.5;
+ }
+ 
+ .name {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 30%;
+ }
+ 
+ .message {
+    margin-top: 3px;
+    width: 100%;
+    height: 175px;
+ }
+ 
+ .submit {
+    width: 100px;
+    margin-top: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-bottom: 30px;
+ }
+
+ /* Portfolio Page */
+
+ .portfolio {
+     display: inline-block;
+     margin-top: 20px;
+     margin-bottom: 200px;
+ }
+
+.images {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.imgtext {
+    position: absolute;
+    display: inline-block;
+    bottom: 30px;
+    width: 240px;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+}
